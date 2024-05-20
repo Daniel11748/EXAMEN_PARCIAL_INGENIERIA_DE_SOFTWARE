@@ -2,7 +2,7 @@
 
 <h1 class="text-center">CONTROL DE RANCHO</h1>
 <div class="row justify-content-center">
-    <form action="/controladores/" method="POST" class="border bg-light shadow rounded p-4 col-lg-6">
+    <form action="/controladores/RANCHO/guardar.php" method="POST" class="border bg-light shadow rounded p-4 col-lg-6">
         <div class="row mb-3">
             <div class="col">
                 <label for="nombre1">NOMBRE DE QUIEN PASA A RANCHO</label>
