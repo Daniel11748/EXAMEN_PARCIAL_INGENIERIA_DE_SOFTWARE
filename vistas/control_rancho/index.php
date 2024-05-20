@@ -18,7 +18,7 @@
         <div class="row mb-3">
             <div class="col">
                 <label for="fecha">FECHA EN QUE SE SIRVIÓ</label>
-                <input type="datetime" name="fecha" id="fecha" class="form-control" required>
+                <input type="date" name="fecha" id="fecha" class="form-control" required>
             </div>
         </div>
         <div class="row mb-3">
