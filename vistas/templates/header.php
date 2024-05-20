@@ -9,6 +9,7 @@
     <title>Control de Rancho</title>
 </head>
 <body>
+
 <?php include_once 'navbar.php'?>
 <div class="container mt-5 pt-5">
 
